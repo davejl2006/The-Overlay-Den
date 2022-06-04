@@ -7,9 +7,9 @@ https://discord.gg/q7yEw9tuNN
 Installation Instructions:
 
 For RetroPie / Lakka / RetroArch
-Place the ".png" and ".cfg" file in your overlays folder.
-Open the ".TXT" file and edit the filepath to match your system. Place this file in your cores config folder (IE, Snes9X), and rename it to match your ROM's filename. Ensure you change the file extension from ".txt" to ".cfg".
-Place the ".png" and ".cfg" file in your overlays folder.
+1: Place the ".png" and ".cfg" file in your overlays folder.
+2: Open the ".TXT" file and edit the filepath to match your system. Place this file in your cores config folder (IE, Snes9X), and rename it to match your ROM's filename. Ensure you change the file extension from ".txt" to ".cfg".
+3: Place the ".png" and ".cfg" file in your overlays folder.
 
 For Batocera
-Ensure both the ".PNG" and ".INFO" filenames match the name of your ROM filename. Place both these files in the "/share/decorations/games" directory (create the "games" folder if it doesn't exist already). You do not need any further files from the zip.
+1: Ensure both the ".PNG" and ".INFO" filenames match the name of your ROM filename. Place both these files in the "/share/decorations/games" directory (create the "games" folder if it doesn't exist already). You do not need any further files from the zip.
